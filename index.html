@@ -1,0 +1,38 @@
+<script>
+  if (localStorage.getItem("loggedIn") !== "true") {
+    window.location.href = "login.html";
+  }
+</script>
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>LocoMed</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<script>
+  if (localStorage.getItem("loggedIn") !== "true") {
+    window.location.href = "login.html";
+  }
+</script>
+<body>
+
+<h1>LocoMed</h1>
+
+<button onclick="getLocation()">📍 Use My Location</button>
+
+<br><br>
+
+<input type="text" id="medicine" placeholder="Enter medicine">
+<button onclick="searchMedicine()">Search</button>
+
+<div id="results"></div>
+
+<h3>📍 Map</h3>
+<iframe id="map" width="90%" height="300"></iframe>
+
+<script src="script.js"></script>
+<button onclick="logout()">Logout</button>
+
+</body>
+</html>

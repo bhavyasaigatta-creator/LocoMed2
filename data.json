@@ -1,0 +1,162 @@
+{
+  "pharmacies": [
+    {
+      "name": "Apollo Pharmacy - 6th Phase KPHB",
+      "lat": 17.4948,
+      "lng": 78.3996,
+      "medicines": [
+        "paracetamol",
+        "insulin",
+        "dolo 650",
+        "crocin",
+        "azithromycin",
+        "cetirizine",
+        "amoxicillin",
+        "pantoprazole",
+        "metformin",
+        "ibuprofen"
+      ]
+    },
+    {
+      "name": "Apollo Pharmacy - 9th Phase KPHB",
+      "lat": 17.4985,
+      "lng": 78.4050,
+      "medicines": [
+        "paracetamol",
+        "insulin",
+        "dolo 650",
+        "crocin",
+        "amoxicillin",
+        "cetirizine",
+        "pantoprazole",
+        "metformin",
+        "ranitidine",
+        "aspirin"
+      ]
+    },
+    {
+      "name": "Apollo Pharmacy - Hafeezpet",
+      "lat": 17.4849,
+      "lng": 78.3825,
+      "medicines": [
+        "paracetamol",
+        "crocin",
+        "dolo 650",
+        "azithromycin",
+        "cetirizine",
+        "ibuprofen",
+        "pantoprazole",
+        "metformin",
+        "insulin",
+        "amoxicillin"
+      ]
+    },
+    {
+      "name": "MedPlus - Jayanagar Colony",
+      "lat": 17.4905,
+      "lng": 78.3920,
+      "medicines": [
+        "crocin",
+        "dolo 650",
+        "paracetamol",
+        "insulin",
+        "amoxicillin",
+        "cetirizine",
+        "pantoprazole",
+        "metformin",
+        "ranitidine",
+        "aspirin"
+      ]
+    },
+    {
+      "name": "MedPlus - Hyder Nagar",
+      "lat": 17.4962,
+      "lng": 78.4012,
+      "medicines": [
+        "paracetamol",
+        "crocin",
+        "dolo 650",
+        "azithromycin",
+        "cetirizine",
+        "ibuprofen",
+        "pantoprazole",
+        "metformin",
+        "insulin",
+        "amoxicillin"
+      ]
+    },
+    {
+      "name": "MedPlus - Pragathi Nagar Main Road",
+      "lat": 17.5152,
+      "lng": 78.4903,
+      "medicines": [
+        "paracetamol",
+        "dolo 650",
+        "crocin",
+        "amoxicillin",
+        "cetirizine",
+        "pantoprazole",
+        "ranitidine",
+        "aspirin",
+        "metformin",
+        "ibuprofen"
+      ]
+    },
+    {
+      "name": "Landmark Pharmacy",
+      "lat": 17.4930,
+      "lng": 78.3955,
+      "medicines": [
+        "paracetamol",
+        "dolo 650",
+        "crocin",
+        "ibuprofen",
+        "cetirizine",
+        "pantoprazole",
+        "aspirin"
+      ]
+    },
+    {
+      "name": "Prathima Pharmacy",
+      "lat": 17.4922,
+      "lng": 78.3978,
+      "medicines": [
+        "paracetamol",
+        "crocin",
+        "amoxicillin",
+        "azithromycin",
+        "cetirizine",
+        "metformin",
+        "ibuprofen"
+      ]
+    },
+    {
+      "name": "City Medicals & Surgicals",
+      "lat": 17.4910,
+      "lng": 78.3940,
+      "medicines": [
+        "dolo 650",
+        "paracetamol",
+        "pantoprazole",
+        "ranitidine",
+        "aspirin",
+        "ibuprofen",
+        "cetirizine"
+      ]
+    },
+    {
+      "name": "Zodoplus Pharmacy",
+      "lat": 17.4895,
+      "lng": 78.3915,
+      "medicines": [
+        "paracetamol",
+        "crocin",
+        "dolo 650",
+        "metformin",
+        "insulin",
+        "amoxicillin",
+        "azithromycin"
+      ]
+    }
+  ]
+}
